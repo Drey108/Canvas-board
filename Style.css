@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,200&family=DM+Serif+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background: url("https://imgs.search.brave.com/wELSFhvR_NzaxShMFa8XKMrB5KH5hZ5Us7XEYvJvXCk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jNC53/YWxscGFwZXJmbGFy/ZS5jb20vd2FsbHBh/cGVyLzk1Mi81MzYv/MTAwNi93aW50ZXIt/NGstcGMtZGVza3Rv/cC13YWxscGFwZXIt/cHJldmlldy5qcGc");
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+}
+h1{
+    font-family: 'Bricolage Grotesque', sans-serif;
+    color: rgb(253, 114, 114);
+    font-size: 60px;
+    font-weight: 900;
+}
+h3{
+    position: absolute;
+    left:590px;
+    top: 100px;
+    background-color: #f6e9e9;
+    color: black;
+    width: 163px;
+    height: 24px;
+
+}
+h4{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.block{
+    text-align: center;
+}
+canvas{
+    display: block;
+    background-color: #f6e9e9;
+    margin:20px;
+
+}
+input{
+    margin: 20px 0px 0px 20px;
+
+}
